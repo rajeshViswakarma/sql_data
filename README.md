@@ -1,0 +1,1 @@
+SQL practics book
